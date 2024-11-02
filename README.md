@@ -1,2 +1,2 @@
-# The Rust Book 🤘
+# The Rust Book🦀🤘
 > Learning rust the hard way 🤓
